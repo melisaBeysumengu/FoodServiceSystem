@@ -1,0 +1,24 @@
+1-makarna-kiyma,yag,tuz-25-false
+1-lahmacun-kiyma,tuz-30-true
+1-salcali makarna-salca,yag,tuz-15-false
+1-alfredo soslu makarna-alfredo sos,yag,tuz-45-false
+1-pizza-sucuk,zeytin,yesil biber-35-false
+2-makarna-kiyma,yag,tuz-29-true
+2-lahmacun-kiyma,yag,tuz-20-false
+2-salcali makarna-salca,yag,tuz-15-false
+2-alfredo soslu makarna-alfredo sos,yag,tuz-12-true
+2-pizza-sucuk,zeytin,yesil biber-24-true
+2-menemen-domates,yumarta-12-true
+
+4-Kebap-Et,Sogan-18-false
+4-Iskender-Et,salça,yogurt-28-false
+4-Tavuk Döner-Tavuk,Özel Sos,Patates-11-false
+5-Kol Böregi-Kiyma,Sogan,Yufka-8-false
+5-Kasarli Börek-Kasar-5-false
+5-Su Böregi-Peynir,Yufka-10-false
+6-Yengen-Sosis,Ketçap,Turþu-10-false
+6-Patso-Patates,sosis-8-false
+6-Tavuk Pilav-Tavuk,Pirinç-11-false
+3-Beyaz Peynirli Börek-Beyaz peynir-7-false
+3-Çemenli-Çemen,domates,kasar-3-false
+3-Boyoz-Yufka-5-false

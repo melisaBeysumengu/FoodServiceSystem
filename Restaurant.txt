@@ -1,0 +1,9 @@
+1,iremkünefe31,iskenderun,,hatay,,+90,3,false
+4,dürümcü,iskenderun,,hatay,,+90,3,false
+3,börekçi,,þiþli,istanbul,,+90,3,false
+2,baklavacý,109.sokak,þiþli,istanbul,dönerci yaný,+90,3,false
+5,sarýyer börekçisi,yeni mahalle,sarýyer,istanbul,cami yaný,90,345,false
+2,güllüoðlu,109.sokak,þiþli,istanbul,dönerci yaný,+90,3,false
+1,irem pastanesi,iskenderun,,izmir,,+90,3,false
+
+6,3E cafe,TýnazTepe,Buca,Ýzmir,Bilgisayar Müh.,,,false

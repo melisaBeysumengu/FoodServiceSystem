@@ -1,0 +1,9 @@
+1,Tuna,Beysümengü,Sakarya,Muratpaþa,Antalya,Migros karþýsý,+90,05532231362,ant0707
+2,Yunus,Oðuz,Menekþe,Beþiktaþ,Ýstanbul,Kartal heykel üstü,+90,05055756432,merhabahocam
+3,Emre,Türk,,Konyaaltý,Antalya,,+90,05423676789,1
+3,Emre,Türk,,,istanbul,,+90,05423676789,123
+1,Tuna,Beysümengü,Sakarya,Muratpaþa,Antalya,Migros karþýsý,+90,05532231362,antalyaaþk
+4,Elon,Musk,Yýldýz,Buca,Ýzmir,Kýz yurdu arkasý,+90,05302121110,lovetesla
+5,Berk,Demir,Sokak,Sýnýr,Hatay,Kebo karþýsý,+45,05578494943,künefe
+5,Berk,Demir,Bahçeli,Kýzýlay,Ankara,bakkal üstü,+90,05576676768,künefe
+6,Ege,Görgü,,,,,+90,12345,ege
